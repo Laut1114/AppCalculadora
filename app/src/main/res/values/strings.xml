@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="ediText_Number">Numero 1</string>
+    <string name="ediText_Number2">Numero 2</string>
+    <string name="TextView_Tittle">"TItulo "</string>
+    <string name="titulo_app">Verificacion de edad para votar</string>
+    <string name="titulo_edad">Ingrese su edad:</string>
+    <string name="verificar_edad">Verificar</string>
+</resources>
